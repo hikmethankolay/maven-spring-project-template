@@ -121,14 +121,13 @@ project-root/
 │   ├── site/  # Documentation site content
 │   │   ├── markdown/  # Markdown files for site
 │   │   ├── resources/  # Resources for site
-├── pom.xml  # Maven project configuration file
-├── scripts/  # Setup and build scripts
-│   ├── 1-create-git-ignore.bat
-│   ├── 2-install-package-manager.bat
-│   ├── 3-install-required-apps.bat
-│   ├── 4-build-app.bat
-│   ├── 5-run-app.bat
-│   ├── 6-run-documentation-webpage.bat
+│   ├── pom.xml  # Maven project configuration file
+├── 1-create-git-ignore.bat
+├── 2-install-package-manager.bat
+├── 3-install-required-apps.bat
+├── 4-build-app.bat
+├── 5-run-app.bat
+├── 6-run-documentation-webpage.bat
 ├── Doxyfile  # Doxygen configuration file
 ├── README.md  # Project README file
 ```
