@@ -2,6 +2,12 @@
 
 This repository provides a template for Java Spring projects with automated build, testing, documentation, and reporting capabilities.
 
+| Coverage Type | Windows OS                                                             |
+| ------------- | ---------------------------------------------------------------------- |
+| Line Based    | ![Line Coverage](assets/badge_linecoverage.svg)     |
+| Branch Based  | ![Branch Coverage](assets/badge_branchcoverage.svg) |
+| Method Based  | ![Method Coverage](assets/badge_methodcoverage.svg) |
+
 ## Features
 
 - Automated build and test pipeline
